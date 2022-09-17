@@ -1,0 +1,10 @@
+.homePage {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    
+}
+.textError {
+    text-align: center;
+    color: rgb(220 38 38);
+}
